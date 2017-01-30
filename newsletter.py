@@ -58,5 +58,9 @@ for card in cards:
 
 debug_out("Finished generating newsletter.")
 debug_out("Generated output:")
-
+print "Subject: MuMaNews - CW %02d" % week
+print
+print config.pre_bullet_points
+print
 print "\n".join(out)
+print config.post_bullet_points

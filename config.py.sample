@@ -9,3 +9,7 @@ org_name = "mumalab"
 brd_name = "Newsletter"
 
 debug = True
+
+pre_bullet_points = "Another week has passed, time for some updates from the space!"
+
+post_bullet_points = "And that's it for this week. If you have something to add, post it on flowdock (or IRC, if that's more your thing), with the hashtag #newsletter, or drop an email to Peter or Severin. You can find this newsletter, and all previous ones in the wiki, at https://wiki.munichmakerlab.de/wiki/Newsletter. Until next week, keep it awesome!"
